@@ -1,7 +1,10 @@
-📊 Pro-Recruiter AI: Filtro Inteligente de Talento
+#📊 Pro-Recruiter AI: Filtro Inteligente de Talento
+
+[!IMPORTANT]
+Nota sobre el despliegue: Dado que este proyecto está alojado en el plan gratuito de Render, el servidor entra en estado de reposo tras periodos de inactividad. Si intentas acceder y la página no carga de inmediato, por favor espera entre 30 y 50 segundos mientras el servicio se reactiva automáticamente.
 Pro-Recruiter AI es una solución automatizada diseñada para optimizar los procesos de reclutamiento técnico. A través de la Inteligencia Artificial, este sistema analiza y filtra currículums (CVs) de manera eficiente, comparándolos con las necesidades reales de una descripción de puesto, permitiendo a los reclutadores tomar decisiones basadas en datos.
 
-🛠 Tecnologías Utilizadas
+#🛠 Tecnologías Utilizadas
 Python: Lenguaje principal para la lógica de backend y procesamiento.
 
 Streamlit: Framework de alto nivel para crear la interfaz web de forma rápida y profesional.
@@ -12,7 +15,7 @@ PyMuPDF (fitz): Librería especializada para la extracción precisa de texto des
 
 Matplotlib & NumPy: Herramientas de ciencia de datos utilizadas para generar gráficos de radar (visualización de habilidades).
 
-🧠 ¿Cómo funciona el programa?
+#🧠 ¿Cómo funciona el programa?
 El flujo de trabajo está diseñado para ser directo y eficiente:
 
 Carga de Candidatos: El usuario sube uno o múltiples CVs en formato PDF y pega la descripción del puesto deseado.
