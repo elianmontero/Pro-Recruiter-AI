@@ -1,10 +1,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
-# 📊 Pro-Recruiter AI: Filtro Inteligente de Talento
-
 > [!IMPORTANT]
 > **Nota sobre el despliegue:** Debido a que el proyecto está alojado en un plan gratuito de Render, el servidor entra en estado de reposo tras un periodo de inactividad. La primera vez que accedas a la URL, puede tardar entre **30 y 50 segundos** en responder mientras el servicio se activa.
+
+# 📊 Pro-Recruiter AI: Filtro Inteligente de Talento
 
 Pro-Recruiter AI es una solución automatizada diseñada para optimizar los procesos de reclutamiento técnico. A través de la Inteligencia Artificial, este sistema analiza y filtra currículums (CVs) de manera eficiente, comparándolos con las necesidades reales de una descripción de puesto, permitiendo a los reclutadores tomar decisiones basadas en datos.
 
