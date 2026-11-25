@@ -1,6 +1,6 @@
-streamlit
-pymupdf
-openai
+PyMuPDF
 matplotlib
 numpy
+openai
 python-dotenv
+streamlit
